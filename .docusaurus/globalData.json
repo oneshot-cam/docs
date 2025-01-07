@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "api/channel",
+              "path": "/api/channel",
+              "sidebar": "docs"
+            },
+            {
+              "id": "api/message",
+              "path": "/api/message",
+              "sidebar": "docs"
+            },
+            {
+              "id": "api/overview",
+              "path": "/api/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "api/user",
+              "path": "/api/user",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduction",
+              "path": "/",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

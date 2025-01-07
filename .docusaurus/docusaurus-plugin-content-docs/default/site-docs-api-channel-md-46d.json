@@ -1,0 +1,21 @@
+{
+  "id": "api/channel",
+  "title": "Channels",
+  "description": "Messages are sent in channels in order to differenciate them by topic.",
+  "source": "@site/docs/api/channel.md",
+  "sourceDirName": "api",
+  "slug": "/api/channel",
+  "permalink": "/api/channel",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Channels"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Message",
+    "permalink": "/api/message"
+  }
+}

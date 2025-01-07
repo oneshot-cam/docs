@@ -1,0 +1,97 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docs": [
+      {
+        "type": "category",
+        "label": "OneShot Documentation",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/",
+            "docId": "introduction",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "HTTP API",
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/api/overview",
+            "docId": "api/overview",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "User",
+            "href": "/api/user",
+            "docId": "api/user",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Message",
+            "href": "/api/message",
+            "docId": "api/message",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Channels",
+            "href": "/api/channel",
+            "docId": "api/channel",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "api/channel": {
+      "id": "api/channel",
+      "title": "Channels",
+      "description": "Messages are sent in channels in order to differenciate them by topic.",
+      "sidebar": "docs"
+    },
+    "api/message": {
+      "id": "api/message",
+      "title": "Message",
+      "description": "Textmessages are used to exchange information between two or more users.",
+      "sidebar": "docs"
+    },
+    "api/overview": {
+      "id": "api/overview",
+      "title": "Overview",
+      "description": "The Azuma HTTP API is used to interact with parts of the Azuma server.",
+      "sidebar": "docs"
+    },
+    "api/user": {
+      "id": "api/user",
+      "title": "User",
+      "description": "User accounts are used to identify people. They are also used to obtain tokens to use with the Azuma API.",
+      "sidebar": "docs"
+    },
+    "introduction": {
+      "id": "introduction",
+      "title": "Introduction",
+      "description": "doc is impor🧨",
+      "sidebar": "docs"
+    }
+  }
+}

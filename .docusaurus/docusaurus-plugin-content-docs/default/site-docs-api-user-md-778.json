@@ -1,0 +1,25 @@
+{
+  "id": "api/user",
+  "title": "User",
+  "description": "User accounts are used to identify people. They are also used to obtain tokens to use with the Azuma API.",
+  "source": "@site/docs/api/user.md",
+  "sourceDirName": "api",
+  "slug": "/api/user",
+  "permalink": "/api/user",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "User"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/api/overview"
+  },
+  "next": {
+    "title": "Message",
+    "permalink": "/api/message"
+  }
+}

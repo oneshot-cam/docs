@@ -1,0 +1,25 @@
+{
+  "id": "api/overview",
+  "title": "Overview",
+  "description": "The Azuma HTTP API is used to interact with parts of the Azuma server.",
+  "source": "@site/docs/api/overview.md",
+  "sourceDirName": "api",
+  "slug": "/api/overview",
+  "permalink": "/api/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Overview"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "User",
+    "permalink": "/api/user"
+  }
+}

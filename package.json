@@ -1,0 +1,20 @@
+{
+    "name": "oneshot-api-docs",
+    "version": "0.1.0",
+    "author": "oleggtro <ole@oleggtro.com>",
+    "license": "Proprietary",
+    "scripts": {
+        "start": "docusaurus start --port 8080 --host 127.0.0.1 --no-open",
+        "build": "docusaurus build",
+        "clear": "docusaurus clear",
+        "deploy": "docusaurus deploy"
+    },
+    "dependencies": {
+        "@docusaurus/core": "3.0.0",
+        "@docusaurus/preset-classic": "3.0.0",
+        "@mdx-js/react": "^3.0.0",
+        "clsx": "1",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    }
+}

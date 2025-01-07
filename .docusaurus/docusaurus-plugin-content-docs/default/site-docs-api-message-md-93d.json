@@ -1,0 +1,25 @@
+{
+  "id": "api/message",
+  "title": "Message",
+  "description": "Textmessages are used to exchange information between two or more users.",
+  "source": "@site/docs/api/message.md",
+  "sourceDirName": "api",
+  "slug": "/api/message",
+  "permalink": "/api/message",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Message"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "User",
+    "permalink": "/api/user"
+  },
+  "next": {
+    "title": "Channels",
+    "permalink": "/api/channel"
+  }
+}

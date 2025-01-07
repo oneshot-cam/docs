@@ -8,7 +8,7 @@ module.exports = {
         {
             type: "category",
             label: "HTTP API",
-            items: ["api/overview", "api/user", "api/message", "api/channel"]
+            items: ["api/overview", "api/user"]
         }
     ]
 }
